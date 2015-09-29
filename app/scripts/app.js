@@ -41,4 +41,5 @@ angular
 
   // mongodb setup
   var mongoose = require('mongoose');
-  mongoose.connect('mongodb://localhost:27017/stadiums');
+  mongoose.connect('mongodb://localhost:27017/stadium');
+  var stadium = require('./app/models/stadium');
