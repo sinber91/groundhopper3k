@@ -1,0 +1,989 @@
+[
+    {
+        "Name": "Abbey Stadium",
+        "Team": "Cambridge United",
+        "Capacity": "10847",
+        "Latitude": "52.2128",
+        "Longitude": "0.154298"
+    },
+    {
+        "Name": "Adams Park",
+        "Team": "Wycombe Wanderers",
+        "Capacity": "10284",
+        "Latitude": "51.6306",
+        "Longitude": "-0.800299"
+    },
+    {
+        "Name": "Almondvale Stadium",
+        "Team": "Livingston",
+        "Capacity": "10122",
+        "Latitude": "55.8864",
+        "Longitude": "-3.52207"
+    },
+    {
+        "Name": "Amex Stadium",
+        "Team": "Brighton and Hove Albion",
+        "Capacity": "22374",
+        "Latitude": "50.8609",
+        "Longitude": "-0.08014"
+    },
+    {
+        "Name": "Anfield",
+        "Team": "Liverpool",
+        "Capacity": "45522",
+        "Latitude": "53.4308",
+        "Longitude": "-2.96096"
+    },
+    {
+        "Name": "Ashton Gate",
+        "Team": "Bristol City",
+        "Capacity": "21497",
+        "Latitude": "51.44",
+        "Longitude": "-2.62021"
+    },
+    {
+        "Name": "B2net Stadium",
+        "Team": "Chesterfield",
+        "Capacity": "10400",
+        "Latitude": "53.2535",
+        "Longitude": "-1.4272"
+    },
+    {
+        "Name": "Balmoor",
+        "Team": "Peterhead",
+        "Capacity": "4000",
+        "Latitude": "57.5112",
+        "Longitude": "-1.79599"
+    },
+    {
+        "Name": "Bayview Stadium",
+        "Team": "East Fife",
+        "Capacity": "2000",
+        "Latitude": "56.1889",
+        "Longitude": "-2.99914"
+    },
+    {
+        "Name": "Bescot Stadium",
+        "Team": "Walsall",
+        "Capacity": "11300",
+        "Latitude": "52.5655",
+        "Longitude": "-1.99053"
+    },
+    {
+        "Name": "Bloomfield Road",
+        "Team": "Blackpool",
+        "Capacity": "16220",
+        "Latitude": "53.8046",
+        "Longitude": "-3.04834"
+    },
+    {
+        "Name": "Boleyn Ground",
+        "Team": "West Ham",
+        "Capacity": "35016",
+        "Latitude": "51.5321",
+        "Longitude": "0.039225"
+    },
+    {
+        "Name": "Bootham Crescent",
+        "Team": "York City",
+        "Capacity": "7872",
+        "Latitude": "53.9695",
+        "Longitude": "-1.08833"
+    },
+    {
+        "Name": "Borough Briggs",
+        "Team": "Elgin City",
+        "Capacity": "4927",
+        "Latitude": "57.6518",
+        "Longitude": "-3.3209"
+    },
+    {
+        "Name": "Boundary Park",
+        "Team": "Oldham Athletic",
+        "Capacity": "10638",
+        "Latitude": "53.5551",
+        "Longitude": "-2.12847"
+    },
+    {
+        "Name": "Bramall Lane",
+        "Team": "Sheffield United",
+        "Capacity": "32702",
+        "Latitude": "53.3703",
+        "Longitude": "-1.47083"
+    },
+    {
+        "Name": "Brisbane Road",
+        "Team": "Leyton Orient",
+        "Capacity": "9271",
+        "Latitude": "51.5601",
+        "Longitude": "-0.012551"
+    },
+    {
+        "Name": "Britannia Stadium",
+        "Team": "Stoke City",
+        "Capacity": "27598",
+        "Latitude": "52.9884",
+        "Longitude": "-2.17542"
+    },
+    {
+        "Name": "Broadfield Stadium",
+        "Team": "Crawley Town",
+        "Capacity": "5996",
+        "Latitude": "51.0996",
+        "Longitude": "-0.194579"
+    },
+    {
+        "Name": "Broadwood Stadium",
+        "Team": "Clyde",
+        "Capacity": "8029",
+        "Latitude": "55.9447",
+        "Longitude": "-4.0379"
+    },
+    {
+        "Name": "Brunton Park",
+        "Team": "Carlisle United",
+        "Capacity": "18202",
+        "Latitude": "54.8955",
+        "Longitude": "-2.91365"
+    },
+    {
+        "Name": "Cappielow Park",
+        "Team": "Greenock Morton",
+        "Capacity": "19612",
+        "Latitude": "55.9414",
+        "Longitude": "-4.72719"
+    },
+    {
+        "Name": "Cardiff City Stadium",
+        "Team": "Cardiff City",
+        "Capacity": "26828",
+        "Latitude": "51.4729",
+        "Longitude": "-3.20413"
+    },
+    {
+        "Name": "Carrow Road",
+        "Team": "Norwich City",
+        "Capacity": "27033",
+        "Latitude": "52.6221",
+        "Longitude": "1.30912"
+    },
+    {
+        "Name": "Celtic Park",
+        "Team": "Celtic",
+        "Capacity": "60832",
+        "Latitude": "55.8497",
+        "Longitude": "-4.20561"
+    },
+    {
+        "Name": "Central Park",
+        "Team": "Cowdenbeath",
+        "Capacity": "4370",
+        "Latitude": "56.1088",
+        "Longitude": "-3.34717"
+    },
+    {
+        "Name": "Cliftonhill",
+        "Team": "Albion Rovers",
+        "Capacity": "2496",
+        "Latitude": "55.8602",
+        "Longitude": "-4.01145"
+    },
+    {
+        "Name": "Craven Cottage",
+        "Team": "Fulham",
+        "Capacity": "25700",
+        "Latitude": "51.4749",
+        "Longitude": "-0.221619"
+    },
+    {
+        "Name": "Crown Ground",
+        "Team": "Accrington Stanley",
+        "Capacity": "5057",
+        "Latitude": "53.7654",
+        "Longitude": "-2.37106"
+    },
+    {
+        "Name": "Deepdale",
+        "Team": "Preston North End",
+        "Capacity": "24500",
+        "Latitude": "53.772",
+        "Longitude": "-2.68832"
+    },
+    {
+        "Name": "Dens Park",
+        "Team": "Dundee",
+        "Capacity": "11856",
+        "Latitude": "56.4747",
+        "Longitude": "-2.97352"
+    },
+    {
+        "Name": "Dumbarton Football Stadium",
+        "Team": "Dumbarton",
+        "Capacity": "2025",
+        "Latitude": "55.9384",
+        "Longitude": "-4.56162"
+    },
+    {
+        "Name": "DW Stadium",
+        "Team": "Wigan Athletic",
+        "Capacity": "25138",
+        "Latitude": "53.5477",
+        "Longitude": "-2.65415"
+    },
+    {
+        "Name": "East End Park",
+        "Team": "Dunfermline",
+        "Capacity": "11380",
+        "Latitude": "56.0756",
+        "Longitude": "-3.44196"
+    },
+    {
+        "Name": "Easter Road",
+        "Team": "Hibernian",
+        "Capacity": "20421",
+        "Latitude": "55.9616",
+        "Longitude": "-3.16521"
+    },
+    {
+        "Name": "Edgar Street",
+        "Team": "Hereford United",
+        "Capacity": "5300",
+        "Latitude": "52.0607",
+        "Longitude": "-2.71774"
+    },
+    {
+        "Name": "Elland Road",
+        "Team": "Leeds United",
+        "Capacity": "37697",
+        "Latitude": "53.7775",
+        "Longitude": "-1.57212"
+    },
+    {
+        "Name": "Emirates Stadium",
+        "Team": "Arsenal",
+        "Capacity": "60361",
+        "Latitude": "51.5549",
+        "Longitude": "-0.108436"
+    },
+    {
+        "Name": "Etihad Stadium",
+        "Team": "Manchester City",
+        "Capacity": "47805",
+        "Latitude": "53.483",
+        "Longitude": "-2.20024"
+    },
+    {
+        "Name": "Ewood Park",
+        "Team": "Blackburn Rovers",
+        "Capacity": "31154",
+        "Latitude": "53.7286",
+        "Longitude": "-2.48937"
+    },
+    {
+        "Name": "Falkirk Stadium",
+        "Team": "Falkirk",
+        "Capacity": "9200",
+        "Latitude": "56.0053",
+        "Longitude": "-3.75262"
+    },
+    {
+        "Name": "Field Mill",
+        "Team": "Mansfield Town",
+        "Capacity": "9186",
+        "Latitude": "53.1378",
+        "Longitude": "-1.2013"
+    },
+    {
+        "Name": "Fir Park",
+        "Team": "Motherwell",
+        "Capacity": "13742",
+        "Latitude": "55.7804",
+        "Longitude": "-3.9803"
+    },
+    {
+        "Name": "Firhill",
+        "Team": "Partick Thistle",
+        "Capacity": "13079",
+        "Latitude": "55.8815",
+        "Longitude": "-4.26938"
+    },
+    {
+        "Name": "Forthbank Stadium",
+        "Team": "Stirling Albion",
+        "Capacity": "3808",
+        "Latitude": "56.1191",
+        "Longitude": "-3.91194"
+    },
+    {
+        "Name": "Fratton Park",
+        "Team": "Portsmouth",
+        "Capacity": "21100",
+        "Latitude": "50.7964",
+        "Longitude": "-1.06389"
+    },
+    {
+        "Name": "Galabank",
+        "Team": "Annan Athletic",
+        "Capacity": "2007",
+        "Latitude": "54.9948",
+        "Longitude": "-3.2612"
+    },
+    {
+        "Name": "Gayfield Park",
+        "Team": "Arbroath",
+        "Capacity": "5940",
+        "Latitude": "56.5523",
+        "Longitude": "-2.5914"
+    },
+    {
+        "Name": "Gigg Lane",
+        "Team": "Bury",
+        "Capacity": "11840",
+        "Latitude": "53.5805",
+        "Longitude": "-2.29487"
+    },
+    {
+        "Name": "Glanford Park",
+        "Team": "Scunthorpe United",
+        "Capacity": "9088",
+        "Latitude": "53.5867",
+        "Longitude": "-0.695244"
+    },
+    {
+        "Name": "Glebe Park",
+        "Team": "Brechin City",
+        "Capacity": "3960",
+        "Latitude": "56.7353",
+        "Longitude": "-2.6565"
+    },
+    {
+        "Name": "Globe Arena",
+        "Team": "Morecambe",
+        "Capacity": "6476",
+        "Latitude": "54.0675",
+        "Longitude": "-2.84707"
+    },
+    {
+        "Name": "Goodison Park",
+        "Team": "Everton",
+        "Capacity": "40157",
+        "Latitude": "53.4387",
+        "Longitude": "-2.96619"
+    },
+    {
+        "Name": "Gresty Road",
+        "Team": "Crewe Alexandra",
+        "Capacity": "10153",
+        "Latitude": "53.0875",
+        "Longitude": "-2.43569"
+    },
+    {
+        "Name": "Griffin Park",
+        "Team": "Brentford",
+        "Capacity": "12763",
+        "Latitude": "51.4882",
+        "Longitude": "-0.302621"
+    },
+    {
+        "Name": "Hampden Park",
+        "Team": "Scotland, Queen's Park",
+        "Capacity": "52500",
+        "Latitude": "55.8258",
+        "Longitude": "-4.25198"
+    },
+    {
+        "Name": "Highbury Stadium",
+        "Team": "Fleetwood Town",
+        "Capacity": "5094",
+        "Latitude": "53.9165",
+        "Longitude": "-3.02484"
+    },
+    {
+        "Name": "Hillsborough",
+        "Team": "Sheffield Wednesday",
+        "Capacity": "39812",
+        "Latitude": "53.4115",
+        "Longitude": "-1.50075"
+    },
+    {
+        "Name": "Home Park",
+        "Team": "Plymouth Argyle",
+        "Capacity": "16388",
+        "Latitude": "50.3882",
+        "Longitude": "-4.15076"
+    },
+    {
+        "Name": "Huish Park",
+        "Team": "Yeovil Town",
+        "Capacity": "9665",
+        "Latitude": "50.9503",
+        "Longitude": "-2.67383"
+    },
+    {
+        "Name": "Ibrox",
+        "Team": "Rangers",
+        "Capacity": "51082",
+        "Latitude": "55.8529",
+        "Longitude": "-4.30962"
+    },
+    {
+        "Name": "Kassam Stadium ",
+        "Team": "Oxford United",
+        "Capacity": "12500",
+        "Latitude": "51.7164",
+        "Longitude": "-1.20775"
+    },
+    {
+        "Name": "KC Stadium",
+        "Team": "Hull City",
+        "Capacity": "25586",
+        "Latitude": "53.7465",
+        "Longitude": "-0.368009"
+    },
+    {
+        "Name": "Keepmoat Stadium",
+        "Team": "Doncaster Rovers",
+        "Capacity": "15231",
+        "Latitude": "53.5099",
+        "Longitude": "-1.11382"
+    },
+    {
+        "Name": "Kenilworth Road",
+        "Team": "Luton Town",
+        "Capacity": "10226",
+        "Latitude": "51.8842",
+        "Longitude": "-0.43155"
+    },
+    {
+        "Name": "King Power Stadium",
+        "Team": "Leicester City",
+        "Capacity": "32262",
+        "Latitude": "52.6203",
+        "Longitude": "-1.14217"
+    },
+    {
+        "Name": "Kingsmeadow",
+        "Team": "AFC Wimbledon, Kingstonian",
+        "Capacity": "4720",
+        "Latitude": "51.4051",
+        "Longitude": "-0.281984"
+    },
+    {
+        "Name": "Liberty Stadium",
+        "Team": "Swansea City",
+        "Capacity": "20532",
+        "Latitude": "51.6428",
+        "Longitude": "-3.93473"
+    },
+    {
+        "Name": "Links Park",
+        "Team": "Montrose",
+        "Capacity": "3292",
+        "Latitude": "56.714",
+        "Longitude": "-2.45902"
+    },
+    {
+        "Name": "Loftus Road",
+        "Team": "Queens Park Rangers",
+        "Capacity": "18360",
+        "Latitude": "51.5093",
+        "Longitude": "-0.232204"
+    },
+    {
+        "Name": "London Road",
+        "Team": "Peterborough United",
+        "Capacity": "15315",
+        "Latitude": "52.5648",
+        "Longitude": "-0.240434"
+    },
+    {
+        "Name": "Macron Stadium",
+        "Team": "Bolton Wanderers",
+        "Capacity": "28723",
+        "Latitude": "53.5805",
+        "Longitude": "-2.53571"
+    },
+    {
+        "Name": "Madjeski Stadium",
+        "Team": "Reading",
+        "Capacity": "24161",
+        "Latitude": "51.4222",
+        "Longitude": "-0.982777"
+    },
+    {
+        "Name": "McDiarmid Park",
+        "Team": "St Johnstone",
+        "Capacity": "10673",
+        "Latitude": "56.4099",
+        "Longitude": "-3.47684"
+    },
+    {
+        "Name": "Meadow Lane",
+        "Team": "Notts County",
+        "Capacity": "20229",
+        "Latitude": "52.9425",
+        "Longitude": "-1.13703"
+    },
+    {
+        "Name": "Memorial Stadium",
+        "Team": "Bristol Rovers",
+        "Capacity": "12011",
+        "Latitude": "51.4862",
+        "Longitude": "-2.58315"
+    },
+    {
+        "Name": "Millennium Stadium",
+        "Team": "Wales",
+        "Capacity": "74500",
+        "Latitude": "51.4782",
+        "Longitude": "-3.18281"
+    },
+    {
+        "Name": "Molineux",
+        "Team": "Wolverhampton Wanderers",
+        "Capacity": "27828",
+        "Latitude": "52.5904",
+        "Longitude": "-2.13061"
+    },
+    {
+        "Name": "Moss Rose",
+        "Team": "Macclesfield Town",
+        "Capacity": "6355",
+        "Latitude": "53.2427",
+        "Longitude": "-2.127"
+    },
+    {
+        "Name": "New Broomfield",
+        "Team": "Airdrie United",
+        "Capacity": "10172",
+        "Latitude": "55.8601",
+        "Longitude": "-3.95997"
+    },
+    {
+        "Name": "New Douglas Park",
+        "Team": "Hamilton Academical",
+        "Capacity": "6078",
+        "Latitude": "55.7821",
+        "Longitude": "-4.058"
+    },
+    {
+        "Name": "New Meadow",
+        "Team": "Shrewsbury Town",
+        "Capacity": "9875",
+        "Latitude": "52.6886",
+        "Longitude": "-2.74931"
+    },
+    {
+        "Name": "New York Stadiumn",
+        "Team": "Rotherham United",
+        "Capacity": "12021",
+        "Latitude": "53.4281",
+        "Longitude": "-1.36172"
+    },
+    {
+        "Name": "Oakwell",
+        "Team": "Barnsley",
+        "Capacity": "23009",
+        "Latitude": "53.5524",
+        "Longitude": "-1.46756"
+    },
+    {
+        "Name": "Ochilview Park",
+        "Team": "Stenhousemuir, East Stirlingshire",
+        "Capacity": "3776",
+        "Latitude": "56.0282",
+        "Longitude": "-3.81449"
+    },
+    {
+        "Name": "Old Trafford",
+        "Team": "Manchester United",
+        "Capacity": "75811",
+        "Latitude": "53.4631",
+        "Longitude": "-2.29139"
+    },
+    {
+        "Name": "Palmerston Park",
+        "Team": "Queen of the South",
+        "Capacity": "6412",
+        "Latitude": "55.0703",
+        "Longitude": "-3.6246"
+    },
+    {
+        "Name": "Pirelli Stadium",
+        "Team": "Burton Albion",
+        "Capacity": "6912",
+        "Latitude": "52.8219",
+        "Longitude": "-1.62708"
+    },
+    {
+        "Name": "Pittodrie",
+        "Team": "Aberdeen",
+        "Capacity": "22199",
+        "Latitude": "57.1593",
+        "Longitude": "-2.08872"
+    },
+    {
+        "Name": "Plainmoor",
+        "Team": "Torquay United",
+        "Capacity": "6104",
+        "Latitude": "50.4764",
+        "Longitude": "-3.52382"
+    },
+    {
+        "Name": "Portman Road",
+        "Team": "Ipswich Town",
+        "Capacity": "30311",
+        "Latitude": "52.0544",
+        "Longitude": "1.14554"
+    },
+    {
+        "Name": "Prenton Park",
+        "Team": "Tranmere Rovers",
+        "Capacity": "16567",
+        "Latitude": "53.3738",
+        "Longitude": "-3.03269"
+    },
+    {
+        "Name": "Pride Park",
+        "Team": "Derby County",
+        "Capacity": "33597",
+        "Latitude": "52.9149",
+        "Longitude": "-1.44727"
+    },
+    {
+        "Name": "Priestfield Stadium",
+        "Team": "Gillingham",
+        "Capacity": "11582",
+        "Latitude": "51.3844",
+        "Longitude": "0.560367"
+    },
+    {
+        "Name": "Recreation Ground",
+        "Team": "Aldershot Town",
+        "Capacity": "7100",
+        "Latitude": "51.2484",
+        "Longitude": "-0.754869"
+    },
+    {
+        "Name": "Recreation Park",
+        "Team": "Alloa Athletic",
+        "Capacity": "3412",
+        "Latitude": "56.1166",
+        "Longitude": "-3.77865"
+    },
+    {
+        "Name": "Ricoh Arena",
+        "Team": "Coventry City",
+        "Capacity": "32609",
+        "Latitude": "52.4481",
+        "Longitude": "-1.49563"
+    },
+    {
+        "Name": "Riverside",
+        "Team": "Middlesbrough ",
+        "Capacity": "34988",
+        "Latitude": "54.5781",
+        "Longitude": "-1.21776"
+    },
+    {
+        "Name": "Rodney Parade",
+        "Team": "Newport County",
+        "Capacity": "7850",
+        "Latitude": "51.5889",
+        "Longitude": "-2.98902"
+    },
+    {
+        "Name": "Roots Hall",
+        "Team": "Southend United",
+        "Capacity": "12392",
+        "Latitude": "51.5491",
+        "Longitude": "0.701572"
+    },
+    {
+        "Name": "Rugby Park",
+        "Team": "Kilmarnock",
+        "Capacity": "18128",
+        "Latitude": "55.6046",
+        "Longitude": "-4.50846"
+    },
+    {
+        "Name": "Selhurst Park",
+        "Team": "Crystal Palace",
+        "Capacity": "26309",
+        "Latitude": "51.3983",
+        "Longitude": "-0.085455"
+    },
+    {
+        "Name": "Seward Stadium",
+        "Team": "Bournemouth",
+        "Capacity": "10700",
+        "Latitude": "50.7352",
+        "Longitude": "-1.83839"
+    },
+    {
+        "Name": "Shielfield Park",
+        "Team": "Berwick Rangers",
+        "Capacity": "4131",
+        "Latitude": "55.76",
+        "Longitude": "-2.01599"
+    },
+    {
+        "Name": "Sixfields Stadium",
+        "Team": "Northampton Town",
+        "Capacity": "7653",
+        "Latitude": "52.2352",
+        "Longitude": "-0.933485"
+    },
+    {
+        "Name": "Somerset Park",
+        "Team": "Ayr United",
+        "Capacity": "10243",
+        "Latitude": "55.4697",
+        "Longitude": "-4.61996"
+    },
+    {
+        "Name": "Spotland Stadium",
+        "Team": "Rochdale",
+        "Capacity": "10249",
+        "Latitude": "53.6209",
+        "Longitude": "-2.17993"
+    },
+    {
+        "Name": "St Andrews",
+        "Team": "Birmingham City",
+        "Capacity": "30009",
+        "Latitude": "52.4756",
+        "Longitude": "-1.86824"
+    },
+    {
+        "Name": "St James Park",
+        "Team": "Newcastle United",
+        "Capacity": "52387",
+        "Latitude": "54.9756",
+        "Longitude": "-1.62179"
+    },
+    {
+        "Name": "St James Park, Exeter",
+        "Team": "Exeter City",
+        "Capacity": "8541",
+        "Latitude": "50.7307",
+        "Longitude": "-3.52109"
+    },
+    {
+        "Name": "St Mary's Stadium",
+        "Team": "Southampton",
+        "Capacity": "32689",
+        "Latitude": "50.9058",
+        "Longitude": "-1.39114"
+    },
+    {
+        "Name": "St Mirren Park",
+        "Team": "St Mirren",
+        "Capacity": "8023",
+        "Latitude": "55.8529",
+        "Longitude": "-4.42879"
+    },
+    {
+        "Name": "Stadium of Light",
+        "Team": "Sunderland",
+        "Capacity": "49000",
+        "Latitude": "54.9146",
+        "Longitude": "-1.38837"
+    },
+    {
+        "Name": "Stadiummk",
+        "Team": "MK Dons",
+        "Capacity": "22000",
+        "Latitude": "52.0096",
+        "Longitude": "-0.733507"
+    },
+    {
+        "Name": "Stair Park",
+        "Team": "Stranraer",
+        "Capacity": "5600",
+        "Latitude": "54.9022",
+        "Longitude": "-5.01249"
+    },
+    {
+        "Name": "Stamford Bridge",
+        "Team": "Chelsea",
+        "Capacity": "41837",
+        "Latitude": "51.4816",
+        "Longitude": "-0.191034"
+    },
+    {
+        "Name": "Stark's Park",
+        "Team": "Raith Rovers",
+        "Capacity": "10104",
+        "Latitude": "56.0999",
+        "Longitude": "-3.16851"
+    },
+    {
+        "Name": "Station Park",
+        "Team": "Forfar Athletic",
+        "Capacity": "5177",
+        "Latitude": "56.6523",
+        "Longitude": "-2.88492"
+    },
+    {
+        "Name": "Tannadice Park",
+        "Team": "Dundee United",
+        "Capacity": "14209",
+        "Latitude": "56.4748",
+        "Longitude": "-2.96902"
+    },
+    {
+        "Name": "The Caledonian Stadium",
+        "Team": "Inverness Caledonian Thistle",
+        "Capacity": "7918",
+        "Latitude": "57.4951",
+        "Longitude": "-4.21751"
+    },
+    {
+        "Name": "The City Ground",
+        "Team": "Nottingham Forest",
+        "Capacity": "30603",
+        "Latitude": "52.9399",
+        "Longitude": "-1.13258"
+    },
+    {
+        "Name": "The County Ground",
+        "Team": "Swindon Town",
+        "Capacity": "15728",
+        "Latitude": "51.5645",
+        "Longitude": "-1.77107"
+    },
+    {
+        "Name": "The Den",
+        "Team": "Millwall",
+        "Capacity": "20146",
+        "Latitude": "51.4859",
+        "Longitude": "-0.050743"
+    },
+    {
+        "Name": "The Galpharm Stadium",
+        "Team": "Huddersfield Town",
+        "Capacity": "24500",
+        "Latitude": "53.6543",
+        "Longitude": "-1.76837"
+    },
+    {
+        "Name": "The Hawthorns",
+        "Team": "West Bromwich Albion",
+        "Capacity": "26272",
+        "Latitude": "52.509",
+        "Longitude": "-1.96418"
+    },
+    {
+        "Name": "The Lamex Stadium",
+        "Team": "Stevenage Borough",
+        "Capacity": "6722",
+        "Latitude": "51.8898",
+        "Longitude": "-0.193664"
+    },
+    {
+        "Name": "The Valley",
+        "Team": "Charlton Athletic",
+        "Capacity": "27111",
+        "Latitude": "51.4865",
+        "Longitude": "0.036757"
+    },
+    {
+        "Name": "Turf Moor",
+        "Team": "Burnley",
+        "Capacity": "22546",
+        "Latitude": "53.7888",
+        "Longitude": "-2.23018"
+    },
+    {
+        "Name": "Tynecastle",
+        "Team": "Heart of Midlothian",
+        "Capacity": "17420",
+        "Latitude": "55.9388",
+        "Longitude": "-3.2325"
+    },
+    {
+        "Name": "Underhill Stadium",
+        "Team": "Barnet",
+        "Capacity": "5260",
+        "Latitude": "51.6464",
+        "Longitude": "-0.191789"
+    },
+    {
+        "Name": "Vale Park",
+        "Team": "Port Vale",
+        "Capacity": "19052",
+        "Latitude": "53.05",
+        "Longitude": "-2.1926"
+    },
+    {
+        "Name": "Valley Parade",
+        "Team": "Bradford City",
+        "Capacity": "25136",
+        "Latitude": "53.8042",
+        "Longitude": "-1.75902"
+    },
+    {
+        "Name": "Vicarage Road",
+        "Team": "Watford",
+        "Capacity": "17477",
+        "Latitude": "51.6498",
+        "Longitude": "-0.401569"
+    },
+    {
+        "Name": "Victoria Park",
+        "Team": "Hartlepool United",
+        "Capacity": "7856",
+        "Latitude": "54.6891",
+        "Longitude": "-1.21274"
+    },
+    {
+        "Name": "Victoria Park, Dingwall",
+        "Team": "Ross County",
+        "Capacity": "6310",
+        "Latitude": "57.5959",
+        "Longitude": "-4.41898"
+    },
+    {
+        "Name": "Victoria Road",
+        "Team": "Dagenham and Redbridge",
+        "Capacity": "6078",
+        "Latitude": "51.5478",
+        "Longitude": "0.159739"
+    },
+    {
+        "Name": "Villa Park",
+        "Team": "Aston Villa",
+        "Capacity": "42788",
+        "Latitude": "52.5092",
+        "Longitude": "-1.88508"
+    },
+    {
+        "Name": "Wembley",
+        "Team": "England",
+        "Capacity": "90000",
+        "Latitude": "51.5559",
+        "Longitude": "-0.279543"
+    },
+    {
+        "Name": "Weston Homes Community Stadium",
+        "Team": "Colchester United",
+        "Capacity": "10084",
+        "Latitude": "51.9234",
+        "Longitude": "0.897861"
+    },
+    {
+        "Name": "Whaddon Road",
+        "Team": "Cheltenham Town",
+        "Capacity": "7066",
+        "Latitude": "51.9062",
+        "Longitude": "-2.06021"
+    },
+    {
+        "Name": "White Hart Lane",
+        "Team": "Tottenham Hotspur",
+        "Capacity": "36230",
+        "Latitude": "51.6033",
+        "Longitude": "-0.065684"
+    }
+]
